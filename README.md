@@ -1,0 +1,2 @@
+# excleDeletegRroupZemo
+删除表格组合中某一列为0的方法
